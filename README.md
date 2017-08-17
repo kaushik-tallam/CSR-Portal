@@ -2,6 +2,7 @@
 This is the front end part of web portal designed for the Corporate Social Responsibility division of the government of Telangana.
 
 Home Page:
+
 Every page of the portal will have the National Emblem on
 the top left hand corner, followed by the heading : Corporate
 Social Responsibility, Government of Telangana State. There will
@@ -19,7 +20,9 @@ about main projects and major companies can be included. The
 bottom of the homepage would have photographs of the
 Honourable Chief Minister, IT Minister and the Minister for
 Industries.
+
 About Page:
+
 The “About” in the nav-bar has a dropdown menu, with each
 element providing different information and answering different
 questions such as ‘What is CSR’, ‘About the CSR Portal’, ‘The
@@ -43,7 +46,9 @@ top officials of the company. More detailed access can be given
 based on the level of authorisation. For a Government Agency or
 Implementing Agency, turnover details are required. This is not
 required for an individual without high security clearance.
+
 Projects Page:
+
 This page will be accessible by clicking on “Projects” tab,
 which will open a page containing all projects. Clicking on
 various options in the drop-down menu of “Projects” on the
@@ -65,7 +70,9 @@ to sort the projects based on “Category”, “Budget”, “Most
 Popular”,etc. This improves accessibility and reduces the time
 required to find a specific project. It also enables a list of all
 projects of a certain category to be printed easily, if required.
+
 Implementing Agencies Page:
+
 The “Implementing Agency “ drop-down menu will have
 “Government Agency” and “Non Governmental Agency”. The
 Implementing Agency page is accessible on clicking the
@@ -76,13 +83,17 @@ Government Agency will open new pages filtering the
 implementing agencies. This will also be in the form of boxes
 displaying basic information and which give detailed
 information on clicking.
+
 CSR Service Providers Page:
+
 Clicking on the “CSR Service Provider” tab will open a page
 showing all the service providers registered. The filters in the
 dropdown menu, such as Services, Products, etc. will filter the
 results in the main page. Again basic details will be enclosed in a
 box, which will detailed information on clicking, if required.
+
 News Page:
+
 This page must be accessed by clicking the “News” tab. This
 will be a non dropdown tab. The main body of the page will
 contain various news items under the heading “Latest news”.
@@ -90,13 +101,17 @@ Each news item will have a small photograph and a short
 paragraph. The paragraph will end with “Click to read more”
 which will be clickable. Clicking will open the complete news
 article.
+
 Gallery:
+
 This page will be accessible on clicking the “Gallery” tab which is
 again non-drop-down. The main body of the page will contain a
 large photograph with explaining text in two or three lines below
 it. There will be navigational arrows on either side of the picture
 which will display the next or previous picture on clicking.
+
 Help Tab:
+
 This page can be viewed by clicking the “Help” tab which is
 dropdown. The drop-down menu will consist of different user
 guides such as “Guide for Company Registration”, ”Guide for
@@ -107,7 +122,9 @@ element will open a PDF of the guide, in a new tab.
 These will have guidelines for registration of different
 stakeholders and Eligibility guidelines for implementing agency.
 Any other information can also be included in “Help”.
+
 Login Button:
+
 On clicking the “Login” button, the login page opens up. It
 does not navigation bar. The login details could be enclosed in a
 box with links for “Home” and “Register”. A forgot password link
@@ -115,7 +132,9 @@ could be added if required, and verification can be done with
 phone number or email id. The rest of the page can be covered
 with small graphics or cartoons. A photograph can also be used
 as a background.
+
 Register Button:
+
 The register page can be accessed by clicking the “Register”
 button. It is a hovering window which consists of five boxes, each
 box contains links for different organisations to register
