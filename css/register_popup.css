@@ -1,0 +1,150 @@
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    width: 70%;
+    /*height:300px; *//* Could be more or less, depending on screen size */
+    border-style: solid;
+    border-color: white;
+    border-radius: 8px;
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 2em;
+    font-weight: bold;
+	-webkit-transition:color .1s ease;
+	-ms-transition:color .1s ease;
+	transition:color .1s ease;
+	margin: 10px;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+	-webkit-transition:color .1s ease;
+	-ms-transition:color .1s ease;
+	transition:color .1s ease;
+}
+
+.regbtns
+{
+    background-color: #333333;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 6px;
+    width: 95%;
+	margin: 4px auto;
+	border:none;
+	-webkit-transition:background .3s ease;
+	-ms-transition:background .3s ease;
+	transition:background .3s ease;
+
+}
+.regbtns:hover
+{
+    background-color: #448D00;
+    color: white;
+}
+#para_already_signin
+{
+    margin: 3% 0%;
+}
+#para_already_signin.a:hover
+{
+    color: red;
+}
+
+.imgContainer
+{
+    text-align: center;
+	width: 90%;
+
+}
+.imgreg {
+	width: 70%;
+}
+
+#reg-tab {
+	width: 100%;
+}
+
+#reg-tab td {
+	width:20%;
+	position: relative;
+}
+
+@media only screen and (max-width: 1000px)
+{
+
+
+.modal
+{
+    overflow-x: hidden;
+    z-index:1000;
+}
+
+#reg-tab td {
+	display: block;
+	width: 100%;
+}
+
+#reg-tab {
+	width: 100%;
+}
+
+.imgreg
+{
+    width:100%;
+    height: auto;
+    margin-top: 5%;
+}
+
+.modal-content
+{
+    width:80%;
+    margin-left: 10%
+}
+.regbtns
+{
+	height: 4em;
+    border-radius: .5em;
+	width: 90%;
+	margin: 5px auto;
+}
+
+ table tr > *{
+        display: block;
+    }
+    table tr {
+        display: table-cell;
+    }
+	
+
+.imgContainer {
+	width: 50%;
+	margin: 0px auto;
+}
+
+.close {
+	font-size: 3em;
+}
+
+}
